@@ -12,6 +12,8 @@ body {
     justify-content: center;
     align-items: center;
     padding: 4rem;
+
+    text-align: center;
 }
 
 .dia {
@@ -28,7 +30,6 @@ body {
 .missatge {
     font-size: 1.7rem;
     font-weight: bold;
-    text-align: center;
 
     color: rgb(255 100 59);
 }
